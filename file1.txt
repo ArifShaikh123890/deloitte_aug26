@@ -1,2 +1,2 @@
-I am learning Git
+I am learning Git-GitHub
 This is my first file
