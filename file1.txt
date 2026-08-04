@@ -1,4 +1,4 @@
 I am learning Git-GitHub
 This is my first file
-Testing bypass staging once commit is don
-dafae
+Testing bypass staging once commit is done
+Testing branch + merge concept
