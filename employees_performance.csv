@@ -1,0 +1,21 @@
+Employee_ID,Employee_Name,Department,Performance_Rating
+101,Amit Sharma,Sales,5
+102,Neha Verma,Sales,4
+103,Rohit Singh,Sales,3
+104,Priya Nair,Sales,4
+105,Karan Patel,HR,2
+106,Sneha Joshi,HR,4
+107,Vikas Mehta,HR,5
+108,Anjali Shah,HR,3
+109,Rahul Gupta,Finance,5
+110,Pooja Iyer,Finance,4
+111,Manish Rao,Finance,3
+112,Kavita Das,Finance,2
+113,Arjun Kumar,IT,5
+114,Meera Kulkarni,IT,4
+115,Nitin Jain,IT,4
+116,Divya Menon,IT,3
+117,Sahil Khan,Marketing,5
+118,Riya Kapoor,Marketing,2
+119,Mohit Bansal,Marketing,4
+120,Aisha Sheikh,Marketing,3
